@@ -5,12 +5,33 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/Oculus/Interaction/Samples/Scenes/Examples/HandGrabUseExamples.unity
-    guid: 509f8fa80c708b343a603a4771d35c85
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/CAGARBUDAYA/Scenes/MainMenu.unity
+    guid: 8be65a8caf5dad74fa94d897d52e593c
+  - enabled: 1
+    path: Assets/CAGARBUDAYA/Scenes/Tutorial.unity
+    guid: 6bf82f2853f978a448878a5514ae6e85
+  - enabled: 1
+    path: Assets/CAGARBUDAYA/Scenes/RuangUtama.unity
+    guid: b0b877fab4cb9f74e953406edf1d1c59
+  - enabled: 1
+    path: Assets/CAGARBUDAYA/Scenes/Museum.unity
+    guid: 9c3c83affe0ff3c4c8052d6e3158a15b
+  - enabled: 1
+    path: Assets/CAGARBUDAYA/Scenes/TokoOen.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/CAGARBUDAYA/Scenes/Balaikota.unity
+    guid: 8d012c513aac542428ae380cbfb989c6
+  - enabled: 1
+    path: Assets/CAGARBUDAYA/Scenes/BankCommonwealth.unity
+    guid: 840c068d985010d4da4ae2cc01db4bf7
+  - enabled: 1
+    path: Assets/CAGARBUDAYA/Scenes/GerejaIjen.unity
+    guid: 86e32cf1bdfacca4f9935462c92ddec9
+  - enabled: 1
+    path: Assets/CAGARBUDAYA/Scenes/HotelPelangi.unity
+    guid: 00630a190073f1d488f861169537c17b
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 76a59d9a9d3ff8045a9b9f9e2a80d95c, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 8067b841a47862049a832a9bbcb9fc2f, type: 2}
